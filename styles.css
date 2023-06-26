@@ -85,7 +85,6 @@ body {
   }
   .question{
     margin: 1.19rem 0 1.19rem 0;
- 
   }
   p{
     color: #4B4C5F;
@@ -162,11 +161,9 @@ body {
       z-index: 2;
       margin: 0;
     }
-  
     .title-questions{
       height: 25rem;
       padding: 0 5.94rem 0 5.51rem;
-
     }
     .title{
      margin: 0 0 2.81rem 0;
@@ -178,6 +175,5 @@ body {
     .questions{
       font-size: 0.875rem;
     }
-    
   }
   
